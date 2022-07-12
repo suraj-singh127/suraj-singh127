@@ -7,8 +7,6 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working as **Web Development Intern at [Raahee](https://raahee.in/)**
-
 - 🗄️  Currently Pusuing **Masters in Computer Science from BHU**
 
 - 🌱 I’m currently learning **JavaScript, React and Data Structures and Algorithms**
