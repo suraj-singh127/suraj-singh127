@@ -7,9 +7,9 @@
 
 <h3 align="center">About Me</h3>
 
-- 🗄️  Currently Pusuing **Masters in Computer Science from BHU**
+- 🗄️  Currently Pusuing **Masters in CyberSecurity from NFSU**
 
-- 🌱 I’m currently learning **JavaScript, React and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Core AI concepts and Mathematics**
 
 - 💬 Ask me about **Web Development and Novels(I read a lot of books)**
 
