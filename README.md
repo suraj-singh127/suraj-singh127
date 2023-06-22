@@ -9,9 +9,7 @@
 
 - 🗄️  Currently Pusuing **Masters in CyberSecurity from NFSU**
 
-- 🌱 I’m currently learning **Core AI concepts and Mathematics**
-
-- 💬 Ask me about **Web Development and Novels(I read a lot of books)**
+- 🌱 I’m currently learning **Rust with all its complications**
 
 - 📫 How to reach me **surajsingh25163@gmail.com**
 
