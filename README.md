@@ -7,7 +7,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🗄️  Currently Pusuing **Masters in CyberSecurity from NFSU**
+- 🗄️  Currently working as **Security Engineer**
 
 - 🌱 I’m currently learning **automating things related to cybersecurity**
 
