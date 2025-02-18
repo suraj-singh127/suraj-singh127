@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
-<h3 align="center">A Software Developer from India</h3>
+<h3 align="center">A Cyber Security Enthusiast from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj-singh127&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-singh127" /> </p>
 
