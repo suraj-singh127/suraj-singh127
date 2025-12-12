@@ -3,7 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=suraj-singh127&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-singh127" /> </p>
 
-![lofi radio banner](![Qg1tLgd](https://github.com/user-attachments/assets/2b92ebbf-4291-4579-b89f-edcc42694c82))
+![Qg1tLgd](https://github.com/user-attachments/assets/63871eca-5d55-443f-a77c-ef2f17a92662)
+
 
 <h3 align="center">About Me</h3>
 
